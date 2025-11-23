@@ -146,14 +146,6 @@ streamlit run app.py
 ```
 
 6. Abrir el navegador en la URL que indica Streamlit (normalmente `http://localhost:8501`).
-
----
-
-## Notas sobre visualización
-
-* La aplicación usa una **paleta de colores controlada**, donde el nivel o producto con mayor participación se representa en tonos de verde, seguido de amarillos/naranjas, rosas/morados y finalmente azules/turquesas, para mantener coherencia visual entre las gráficas.
-* En algunos casos (por ejemplo, ranking de Air Fryers), se usan **tablas con filas resaltadas** (TOP 1, TOP 2, TOP 3) en lugar de gráficos circulares, para enfatizar el orden de importancia.
-
 ---
 
 ## Disclaimer
